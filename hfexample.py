@@ -2,7 +2,7 @@ import requests
 import json
 
 # Replace with your Hugging Face API token
-api_token = "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"
+api_token = "XYX"
 
 # Set the API endpoint and headers
 endpoint = "https://api-inference.huggingface.co/models/fka/awesome-chatgpt-prompts"
